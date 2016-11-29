@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"人民币");
+     NSLog(@"人民币");
+     NSLog(@"人民币");
 }
 
 
